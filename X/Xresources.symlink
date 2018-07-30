@@ -1,0 +1,37 @@
+URxvt*foreground:		    #E8DFD6
+URxvt*background:		    #021B21
+
+URxvt*color0:			    #032C36
+URxvt*color1:			    #C2454E
+URxvt*color2:			    #7CBF9E
+URxvt*color3:			    #8A7A63
+URxvt*color4:			    #2E3340
+URxvt*color5:			    #FF5879
+URxvt*color6:			    #44B5B1
+URxvt*color7:			    #F2F1B9
+URxvt*color8:			    #065F73
+URxvt*color9:			    #EF5847
+URxvt*color10:			    #A2D9B1
+URxvt*color11:			    #BEB090
+URxvt*color12:			    #61778D
+URxvt*color13:			    #FF99A1
+URxvt*color14:			    #9ED9D8
+URxvt*color15:			    #F6F6C9
+
+URxvt*cursorColor:		    #2E3340
+
+
+URxvt*font:                 xft:xos4 Terminus
+URxvt*scrollBar:		    false
+
+
+!URxvt*perl-ext-common:		default
+!URxvt*perl-ext:			    tabbed
+!URxvt*perl-lib:			    /home/lewd/.urxvt
+
+!URxvt*tabbed*new-button:	false
+!URxvt*tabbed*tab-numbers:   false
+!URxvt*tabbed*tabcmds*1:    N|shell
+!URxvt*tabbed*tabcmds*2:    R|ranger|ranger
+!URxvt*tabbed*tabcmds*3:    Y|python|python
+!URxvt*session:             N|R|Y
